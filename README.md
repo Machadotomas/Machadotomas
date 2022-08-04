@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Machadotomas
-- 👀 I’m interested in working on web development
-- 🌱 I’m currently work on javascript, css, html, django & python
+- 👀 I’m interested in working on web/software development
+- 🌱 I’m currently working on javascript, css, html, django & python
 - 📫 How to reach me ...
 
 <!---
